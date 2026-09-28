@@ -1,0 +1,22 @@
+# TESTE DO PROGRAMA
+# Para validar a lógica com 10 entrevistados, use os dados abaixo:
+#
+# 1. Ana - 18 - Excelente
+# 2. Bruno - 20 - Bom
+# 3. Carla - 17 - Ruim
+# 4. Diego - 22 - Excelente
+# 5. Elisa - 19 - Bom
+# 6. Felipe - 25 - Ruim
+# 7. Gabriela - 21 - Excelente
+# 8. Henrique - 18 - Excelente
+# 9. Isabela - 23 - Bom
+# 10. João - 20 - Ruim
+#
+# Resultado esperado no teste:
+# EXCELENTE = 4
+# RUIM = 3
+# BOM = 3
+#
+# Observação:
+# O programa principal foi feito para 50 entrevistados, conforme solicitado.
+# Este arquivo serve como roteiro/documentação para o teste com 10 entrevistados.
