@@ -151,16 +151,6 @@ Para validar o funcionamento do programa, foi realizado um teste com 10 entrevis
 
 O resultado confirma que os contadores estão funcionando corretamente.
 
-## Prints do projeto
-
-### Código
-
-![Print do código](print_codigo.png)
-
-### Execução do teste
-
-![Print da execução do teste](print_execucao_teste.png)
-
 ## Estrutura dos arquivos
 
 ```text
